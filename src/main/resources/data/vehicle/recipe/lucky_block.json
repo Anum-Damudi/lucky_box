@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G D",
+    " C ",
+    "D G"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "D": "minecraft:diamond",
+    "C": "minecraft:chest"
+  },
+  "result": {
+    "id": "vehicle:lucky_block",
+    "count": 1
+  }
+}

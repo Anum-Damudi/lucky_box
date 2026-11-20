@@ -27,6 +27,7 @@ The Lucky Block can reward players with valuable items, including:
 - Diamonds
 - Gold
 - TNT
+- golden apple
 
 ### ⚡ Random Events
 Breaking the Lucky Block can also trigger unexpected events:
@@ -47,9 +48,9 @@ Implemented a random outcome system for the Lucky Block, combining valuable rewa
 
 ![Lucky Block](screenshots/lucky_block.png)
 
-### 3. Random Events and Rewards
+### 3. Recipe
 
-![Stretch Goal](screenshots/stretch-goal.png)
+![Recipe](screenshots/recipe.jpg)
 
 ## Installation
 
