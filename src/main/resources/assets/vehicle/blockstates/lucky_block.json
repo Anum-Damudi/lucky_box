@@ -1,0 +1,8 @@
+
+{
+  "variants": {
+    "": {
+      "model": "vehicle:block/lucky_block"
+    }
+  }
+}
